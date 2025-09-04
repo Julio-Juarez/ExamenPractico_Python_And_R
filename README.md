@@ -1,6 +1,6 @@
 # Entrega de Actividades – Programación en Python y R
 
-**Nombre del estudiante:** Julio ALejandro Juarez Enriquez  
+**Nombre del estudiante:** Julio Alejandro Juarez Enriquez  
 **Carné:** 2022-103697  
 
 ---
@@ -17,7 +17,7 @@ Asimismo, se resolvieron los ejercicios de R utilizando comentarios explicativos
 
 ## 🎯 Objetivo General
 
-Desarrollar una aplicación de consola en Python para la gestión de empleados de la institución financiera INTECAPP, incluyendo la capacidad de análisis salarial básico.
+Desarrollar una aplicación de consola en Python para la gestión de empleados de la institución financiera INTECAP, incluyendo la capacidad de análisis salarial básico.
 
 ---
 
