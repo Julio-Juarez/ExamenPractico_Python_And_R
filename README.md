@@ -1,13 +1,13 @@
 # Entrega de Actividades – Programación en Python y R
 
-**Nombre del estudiante:** x  
-**Carné:** x  
+**Nombre del estudiante:** Julio ALejandro Juarez Enriquez  
+**Carné:** 2022-103697  
 
 ---
 
 ## Introducción
 
-Este repositorio contiene la entrega de las actividades correspondientes al desarrollo de una aplicación de consola en Python para la gestión de empleados de la institución financiera **INTECAPP**, así como los ejercicios en R correspondientes al examen de variables, vectores, listas, data frames, estructuras de control y funciones.  
+Este repositorio contiene la entrega de las actividades correspondientes al desarrollo de una aplicación de consola en Python para la gestión de empleados de la institución financiera **INTECAP**, así como los ejercicios en R correspondientes al examen de variables, vectores, listas, data frames, estructuras de control y funciones.  
 
 El objetivo principal fue desarrollar una aplicación interactiva que permita registrar, mostrar, filtrar, actualizar y eliminar empleados, además de generar resúmenes salariales, cumpliendo con todos los requisitos y restricciones establecidas.  
 
